@@ -1,0 +1,35 @@
+body {
+    font-family: Arial,helvetica,sans-serf;
+    background-colour: rgb(236,15,15)i;
+    margin:50;
+    padding:20px;
+}
+    container {
+        width:80%px;
+        max-width:800px;
+        margin:auto;
+        background-colour:rgb(245,240,240);
+        padding:30px;
+    }
+    h1{
+        teks-align: center;
+        color:rgb(16,16,17)
+    }
+    img{
+        border-radius:50%;
+    }
+    p{   
+        line-height:1.6;
+    }
+    li{
+        margin-bottom:5;
+    }
+     moto {
+        text-align: center;
+        font-style:italic;
+        font-weight:bold;
+     }
+     footer {
+        text-align:center;
+        color:aqua;
+     }        
